@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Sommohon |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sommohon/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা এক ঘোরের মাঝে আমি হারিয়ে যাই
+> অন্ধকার এই শহরে শুধু তোমার আলো চাই
+> বুকের ভেতর আগুন জ্বলে, ছায়া কাঁপে রাতে
+> আমার জীবন বন্দি এখন তোমার দুই হাতে
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
