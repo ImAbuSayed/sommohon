@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sommohon/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Sommohon](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Sommohon](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
